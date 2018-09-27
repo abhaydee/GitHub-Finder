@@ -1,4 +1,4 @@
-# Memory Game Project
+# GitHub Finder
 
 ## Table of Contents
 
